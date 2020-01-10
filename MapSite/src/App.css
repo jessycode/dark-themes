@@ -1,1 +1,15 @@
+.App {
+  text-align: left;
+}
+.App-content {
+  background-color:  #26282B;
+  margin-left: 280px;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
 
+.Nav a {
+  text-decoration: none;
+  color: #c4c4c4;
+}
